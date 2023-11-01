@@ -9,19 +9,17 @@ body{
 nav{
   display: flex;
   justify-content:center;
+  
 }
 a{
+  color:inherit;
   padding: 10px;
-  text-decoration: none;
-  counter-reset: #0074E4;
   
 }
 a:hover{
   color: #0056b3;
 }
-a:visited{
-  text-decoration:none;
-}
+
 h1{
   text-align: center;
 }
